@@ -102,6 +102,10 @@ Responsible for:
 * Intelligent Interaction
 ---
 
+## 👨‍💻 Author **Mohith K U** 
+📧 mohithmandanna29@gmail.com
+
+---
 
 ## 📄 License
 
